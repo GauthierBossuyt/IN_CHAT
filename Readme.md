@@ -1,9 +1,9 @@
-#IN_CHAT
+# IN_CHAT
 
 IN_CHAT is an application that converts twitch chat messages to keyboard output.
 
 
-###Sources used for this code:
+### Sources used for this code:
 
 https://www.learndatasci.com/tutorials/how-stream-text-data-twitch-sockets-python/
 https://dev.twitch.tv/docs/irc/guide
